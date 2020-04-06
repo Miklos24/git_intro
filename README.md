@@ -1,2 +1,3 @@
 Miklos Bowling
-bowilngm@oregonstate.edu
+bowlingm@oregonstate.edu
+green
